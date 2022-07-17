@@ -1,0 +1,42 @@
+.ust_kutu {
+    border: 1px solid rgb(202, 202, 202);
+    text-align: center;
+    background-color: rgb(249, 249, 249);
+}
+.alt_kutu {
+    text-align: left;
+    margin: 0.5em;
+}
+.kucuk_kutular_yesil {
+    border: 1px solid rgb(202, 202, 202);
+    background-color: rgb(213, 241, 225);
+    text-align: left;
+    padding-left: 15px;
+}
+.kucuk_kutular_mavi {
+    border: 1px solid rgb(202, 202, 202);
+    background-color: rgb(209, 222, 240);
+    text-align: left;
+    padding-left: 15px;
+}
+.buyuk_kutu_yesil {
+    border: 1px solid rgb(213, 241, 225);
+    background-color: rgb(247, 255, 250);
+    padding: 15px;
+}
+.buyuk_kutu_mavi {
+    border: 1px solid rgb(232, 238, 248);
+    background-color: rgb(246, 250, 254);
+    padding: 15px;
+}
+.img_left {
+    float: left;
+    margin: 0.5em 0.9em 0.4em 0em;
+}
+.img_right {
+    float: right;
+    margin: 0.5em 0.9em 0.4em 0em;
+}
+p {
+    margin: 0;
+}

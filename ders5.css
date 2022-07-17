@@ -1,0 +1,59 @@
+body {
+    background-color: aqua;
+    font-family: "Times New Roman", Times, serif;
+}
+
+h1,h2,h3 {
+    color: red;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    text-transform: uppercase; /* lowercase capitalize */
+}
+
+.text-orange {
+    color: orange !important;
+}
+
+.text-blue {
+    color: blue;
+}
+
+p {
+    padding: 20px; /* left-right-top-bottom */
+    font-size: 30px;
+}
+
+/* border */
+.border-dot {
+    border: 4px dotted rgb(0,0,0);
+}
+.border-circle {
+    border-radius: 10px;
+}
+
+.text-center {
+    text-align: center; /* left, right, center */
+}
+
+.fixed-image {
+    width: 200px;
+    height: 200px;
+}
+
+.text-underline {
+    text-decoration: underline red dotted;
+}
+
+.hidden {
+    display: none; /* block */
+}
+
+a {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
